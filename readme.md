@@ -84,8 +84,10 @@ Exhibit 5 Consumer Model (endpoints.py)
 https://centralus.api.azureml.ms/pipelines/v1.0/subscriptions/16bc73b5-82be-47f2-b5ab-f2373344794c/resourceGroups/kalakkad-ddl/providers/Microsoft.MachineLearningServices/workspaces/epe-venkat-aiml/PipelineRuns/PipelineEndpointSubmit/Id/f08b580f-3d1d-4acb-9d72-abffdd118c4e
 Bankmarketing dataset with AutoML module
  
-# Run widget steps
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image029.png)
+# Published Pipeline Overview
+
+
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image030.png)
 
 # Scheduled run  
 
