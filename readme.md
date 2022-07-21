@@ -86,13 +86,8 @@ Bankmarketing dataset with AutoML module
  
 # Published Pipeline Overview
 
-
 ![images](https://github.com/Vzard/Assignment-2/blob/main/images/image031.png)
  
- 
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image033.png)
- 
-
 # Scheduled run  
 
 ![images](https://github.com/Vzard/Assignment-2/blob/main/images/image032.png)
