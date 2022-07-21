@@ -28,15 +28,15 @@ Step 6: Create, Publish Pipeline Consume Pipeline. (Exhibit set 7)
 
 ## Auto ML setup (Exhibit 2-A) -Data Set
 
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image004.png)
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image005.png)
     
 # ML Job completed (Exhibit 2B)
 
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image005.png)
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image006.png)
 
 # Exhibit 2C Best Model
 
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image006.png)
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image007.png)
 
 # AppInsight Exhibit 3 A
  
