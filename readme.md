@@ -18,7 +18,7 @@ Step 6: Create, Publish Pipeline Consume Pipeline. (Exhibit set 7)
 
 ## Service Principal creation (Exhibit 1)
 
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image001.png)
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image001.png)![images](https://github.com/Vzard/Assignment-2/blob/main/images/image002.png)
 
 
 ## Auto ML setup (Exhibit 2-A) -Data Set
