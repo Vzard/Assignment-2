@@ -39,14 +39,15 @@ Step 6: Create, Publish Pipeline Consume Pipeline. (Exhibit set 7)
 ![images](https://github.com/Vzard/Assignment-2/blob/main/images/image009.png)
 
 # AppInsight Exhibit 3 A
- 
+
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image011.png)
 2022-06-10T22:15:16,191731800+00:00 - gunicorn/run 
 2022-06-10T22:15:16,198623300+00:00 | gunicorn/run | 
 2022-06-10T22:15:16,199986800+00:00 | gunicorn/run | ###############################################
 
 # Exhibit 3B
  
-
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image013.png)
 
 
 
