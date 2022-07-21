@@ -69,7 +69,10 @@ Step 6: Create, Publish Pipeline Consume Pipeline. (Exhibit set 7)
 
 Exhibit 5 Consumer Model (endpoints.py)
         
-                                                                                                                                                                 
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image021.png)                                                                                                                                                               
+
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image023.png)
+
 Exhibit Set 6 :Pipeline 
 
  
