@@ -32,11 +32,11 @@ Step 6: Create, Publish Pipeline Consume Pipeline. (Exhibit set 7)
     
 # ML Job completed (Exhibit 2B)
 
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image006.png)
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image007.png)
 
 # Exhibit 2C Best Model
 
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image007.png)
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image008.png)
 
 # AppInsight Exhibit 3 A
  
