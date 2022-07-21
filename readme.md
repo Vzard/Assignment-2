@@ -36,7 +36,7 @@ Step 6: Create, Publish Pipeline Consume Pipeline. (Exhibit set 7)
 
 # Exhibit 2C Best Model
 
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image008.png)
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image009.png)
 
 # AppInsight Exhibit 3 A
  
