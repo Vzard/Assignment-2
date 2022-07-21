@@ -88,6 +88,10 @@ Bankmarketing dataset with AutoML module
 
 
 ![images](https://github.com/Vzard/Assignment-2/blob/main/images/image030.png)
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image031.png)
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image032.png)
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image033.png)
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image034.png)
 
 # Scheduled run  
 
