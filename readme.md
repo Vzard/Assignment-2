@@ -51,14 +51,12 @@ Step 6: Create, Publish Pipeline Consume Pipeline. (Exhibit set 7)
 
 
 
+# Swagger 
 
-
-## Swagger 
-
-# Exhibits 4.1
+## Exhibits 4.1
  
 
-# 4.2- Request 
+## 4.2- Request 
 
 
 
