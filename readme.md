@@ -87,14 +87,25 @@ Bankmarketing dataset with AutoML module
 # Published Pipeline Overview
 
 
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image030.png)
 ![images](https://github.com/Vzard/Assignment-2/blob/main/images/image031.png)
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image032.png)
+ 
+ 
 ![images](https://github.com/Vzard/Assignment-2/blob/main/images/image033.png)
-![images](https://github.com/Vzard/Assignment-2/blob/main/images/image034.png)
+ 
 
 # Scheduled run  
 
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image032.png)
+
+# Run Widget 1
+
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image033.png)
+
+# Run widget 2
+
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image033.png)
+
+# Run widget 3
 
 Next Steps
 1.	Learn to do this operationalizing across more programs and complex programs
