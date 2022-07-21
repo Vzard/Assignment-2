@@ -101,6 +101,7 @@ Bankmarketing dataset with AutoML module
 ![images](https://github.com/Vzard/Assignment-2/blob/main/images/image033.png)
 
 # Run widget 3
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/ widgetrun3.png)
 
 Next Steps
 1.	Learn to do this operationalizing across more programs and complex programs
