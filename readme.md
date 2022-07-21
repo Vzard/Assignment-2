@@ -51,19 +51,19 @@ Step 6: Create, Publish Pipeline Consume Pipeline. (Exhibit set 7)
 
 
 
-# Swagger 
+## Swagger 
 
-## Exhibits 4.1
- 
+#  Exhibits 4.1
 
-## 4.2- Request 
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image015.png)
 
+# 4.2- Request 
 
-
-
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image017.png)
 
 # 4.3 Response 
- 
+
+![images](https://github.com/Vzard/Assignment-2/blob/main/images/image019.png)
 
 
 
